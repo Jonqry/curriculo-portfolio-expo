@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Meu Portfólio",
+    "slug": "curriculo-terceiro-periodo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "curriculoportfolio",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "plugins": [
+      "expo-router",
+      "expo-status-bar",
+      "expo-font"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+    },
+    "experiments": {
+      "typedRoutes": false
+    },
+    "owner": "jonqryorg",
+    "description": "Portfólio acadêmico de João Victor - Sistemas para Internet"
+  }
+}
