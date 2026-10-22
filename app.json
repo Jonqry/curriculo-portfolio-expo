@@ -18,12 +18,23 @@
     "ios": {
       "supportsTablet": true
     },
-    "android": {
-    },
+    "android": {},
     "experiments": {
       "typedRoutes": false
     },
     "owner": "jonqryorg",
-    "description": "Portfólio acadêmico de João Victor - Sistemas para Internet"
+    "description": "Portfólio acadêmico de João Victor - Sistemas para Internet",
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "c7f36dc1-6fec-45e2-bc87-9258382d947c"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/c7f36dc1-6fec-45e2-bc87-9258382d947c"
+    }
   }
 }
